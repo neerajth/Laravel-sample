@@ -1,0 +1,68 @@
+/************************************************************
+** Login
+************************************************************/
+#login {
+	margin-top: 50px;
+}
+/************************************************************
+** Home
+************************************************************/
+#statistics .stats_bg {
+	background: #ececec;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#statistics .quantity {
+	font-size: 60px;
+	font-weight: bold;
+}
+#recent_projects {
+	margin-top: 25px;
+}
+.search {
+	padding-top: 15px;
+	margin-bottom: 0px;
+	min-width: 300px;
+	float: right;
+}
+.heading-search {
+	display: inline;
+}
+
+/************************************************************
+** Site Footer
+************************************************************/
+#site_footer .divide {
+	border-top: 1px solid #777;
+	padding-top: 5px;
+	margin-top: 40px;
+}
+#site_footer a {
+	font-size: 12px;
+}
+
+/************************************************************
+** Project Tab Content content
+************************************************************/
+.tabs-content > .content {
+	padding-top: 0px;
+}
+/************************************************************
+** BreadCrumbs
+************************************************************/
+#page_breadcrumbs {
+	margin-top: 25px;
+}
+
+/************************************************************
+** General
+************************************************************/
+.margin_top {
+	margin-top: 25px;
+}
+.full_width {
+	width: 100%;
+}
+.welcomeuser {
+	font-size: 24px;
+}
